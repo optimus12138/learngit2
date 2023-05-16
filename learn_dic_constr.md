@@ -1,4 +1,4 @@
-verilog程序文件夹：
+## verilog程序文件夹：
 
 comment：确实漂亮，可以借鉴
 
@@ -16,7 +16,7 @@ comment：确实漂亮，可以借鉴
 readme.md
 
 
-另外一个版本(通用语言)：
+## 另外一个版本(通用语言)：
 
 /bin        
 /demo       
@@ -24,7 +24,7 @@ readme.md
 /include
 /lib
 
-另另一个版本（verilog）：
+## 另另一个版本（verilog）：
 /prj            存放工程文件，时序约束文件，define文件等
 /src            存放源码
 /sim            存放测试文件
