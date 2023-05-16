@@ -30,5 +30,5 @@ readme.md
 /sim            存放测试文件
     /common     存放通用的接口，存储器等源码
     /ipcore
-    /wrapper
+    /wrapper    便于移植到其他平台
 
