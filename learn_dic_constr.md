@@ -31,6 +31,3 @@ readme.md
     /common     存放通用的接口，存储器等源码
     /ipcore
     /wrapper    便于移植到其他平台
-
-create a new branch 
-test
