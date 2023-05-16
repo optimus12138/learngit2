@@ -24,3 +24,11 @@ readme.md
 /include
 /lib
 
+另另一个版本（verilog）：
+/prj            存放工程文件，时序约束文件，define文件等
+/src            存放源码
+/sim            存放测试文件
+    /common     存放通用的接口，存储器等源码
+    /ipcore
+    /wrapper
+
